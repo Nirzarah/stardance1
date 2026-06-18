@@ -4,7 +4,7 @@ A stunning animated galaxy background effect rendered with HTML5 Canvas. This pr
 
 ## View Repository
 [view this project on github]
-(https://github.com/Nirzarah/animated-background4)
+(https://nirzarah.github.io/animated-background4/)
 
 ## Features
 
